@@ -1,0 +1,1 @@
+get build(go) info
